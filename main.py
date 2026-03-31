@@ -40,4 +40,4 @@ async def on_member_join(member):
         await channel.send(f"حياك الله {member.mention} في سيرفر zi_9ni!", file=discord.File(fp=image_binary, filename='welcome.png'))
 
 # تقدر تحط التوكن هنا مباشرة أو كـ Environment Variable
-bot.run('حط_التوكن_هنا')
+bot.run('MTQ4ODYwMjU4MzAzMDQzNjAwMg.GjZNAw.OZn1wyOHSb_BTK2gdgggzvS6Zh4bGYcribJMy4')
